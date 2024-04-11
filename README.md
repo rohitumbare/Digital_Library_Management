@@ -5,7 +5,7 @@
 I am thrilled to announce the completion of my latest project - DIGITAL LIBRARY MANAGEMENT! 🌟
 
 🎯 Project Details: <br>
-Banky is a simulation of a basic library system that allows users to add book, borrow book, return book,show all books and show available books. This project provides an opportunity to explore fundamental concepts of object-oriented programming.<br>
+Digital Library Management is a simulation of a basic library system that allows users to add book, borrow book, return book,show all books and show available books. This project provides an opportunity to explore fundamental concepts of object-oriented programming.<br>
 
 💡 Key Features:<br>
 ✅ Add Book<br>
